@@ -1,0 +1,1 @@
+/Users/cox/.vim/plugged/dracula-theme/vim/colors/dracula.vim
